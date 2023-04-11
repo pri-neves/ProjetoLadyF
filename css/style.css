@@ -39,10 +39,40 @@ figcaption{
     margin-top: 10px;
 }
 
-figure img{
-    width: 800px;
-    height:500px;
+#centro-distribuicao{
+    margin-left:auto;
+    margin-right: auto;
+    width:550px;
 }
+
+#centro-distribuicao img{
+    width:500px;
+    height:280px;
+}
+
+#rodape{
+    color:#777;
+    margin:30px 0;
+    padding:30px 0;
+}
+
+#rodape img{
+    margin-right: 30px;
+    vertical-align: middle;
+    width:94px;
+}
+
+#familia-takeshi{
+    float:right;
+    margin:0 0 10px 10px;
+}
+
+#familia-takeshi img{
+    width:330px;
+    height:180px;
+}
+
+
 
 
 
